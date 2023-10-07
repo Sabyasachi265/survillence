@@ -1,0 +1,32 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+body{
+    background-size: cover;
+
+}
+
+#NoOfObjects, #status, #start{
+    font-size: 18px;
+
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px yellow;
+}
+
+.div1{
+    position: fixed;
+    color: aquamarine;
+    bottom: 0px;
+    width: 100%;
+    background-color: blueviolet;
+    line-height: 2px;
+    text-align: center;
+}
